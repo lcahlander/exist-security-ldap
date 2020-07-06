@@ -1,4 +1,4 @@
-package org.exist-db;
+package org.exist;
 
 
 import org.exist.EXistException;

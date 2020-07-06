@@ -1,4 +1,4 @@
-package org.exist-db;
+package org.exist;
 
 import org.exist.dom.QName;
 import org.exist.dom.memtree.DocumentImpl;
@@ -15,7 +15,7 @@ import org.exist.xquery.value.Type;
 import java.util.Optional;
 
 import static org.exist.xquery.FunctionDSL.*;
-import static org.exist-db.ExampleModule.functionSignature;
+import static org.exist.ExampleModule.functionSignature;
 
 /**
  * Some very simple XQuery example functions implemented
